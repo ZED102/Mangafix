@@ -1,0 +1,6 @@
+{
+  "appId": "com.yourdomain.mangafix",
+  "appName": "MangaFix",
+  "webDir": "frontend/build",
+  "bundledWebRuntime": false
+}
